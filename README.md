@@ -52,9 +52,9 @@ homesick-aussie-site/
    Name: @
    Value: 185.199.111.153
    
-   Type: CNAME
-   Name: www
-   Value: yourusername.github.io
+       Type: CNAME
+    Name: www
+    Value: chookiman.github.io
    ```
 
 2. In GitHub Pages settings, add custom domain: `homesickaussie.com`
